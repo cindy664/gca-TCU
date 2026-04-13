@@ -1,4 +1,109 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Texas Christian University",
+    "abbreviation": "TCU",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#FFFFFF",
+    "primaryBrandColor": "#511B80",
+    "buttonColor": "#511B80",
+    "buttonTextColor": "#fff",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/3d7acf898cd64f59814bcb9c28a68902-tcu.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/3d7acf898cd64f59814bcb9c28a68902-tcu.png",
+    "partner_id": "0014T00000FnQnpQAF",
+    "programName": "TCU Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": null,
+    "startDate": "June 1",
+    "endDate": null
+  },
+  {
+    "item": "about",
+    "schoolname": "Texas Christian University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviation": "TCU",
+    "phone": "(817) 207-5922",
+    "credits": null,
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": null,
+    "abbreviation": "TCU",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Texas Christian University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": null,
+    "abbreviation": "TCU",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 1",
+    "endDate": null
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Texas Christian University",
+    "trackTitle": "Coding for Web Track",
+    "credits": null,
+    "abbreviation": "TCU",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 1",
+    "endDate": null
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Texas Christian University",
+    "trackTitle": "Data Analytics Track",
+    "credits": null,
+    "abbreviation": "TCU",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 1",
+    "endDate": null
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Texas Christian University",
+    "trackTitle": "Coding for Data Track",
+    "credits": null,
+    "abbreviation": "TCU",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 1",
+    "endDate": null
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Texas Christian University",
+    "trackTitle": "Career Rotation Track",
+    "credits": null,
+    "abbreviation": "TCU",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 1",
+    "endDate": null
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "TCU Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(817) 207-5922",
+    "abbreviation": null
+  },
+  {
+    "item": "begin",
+    "credits": null,
+    "abbreviation": "TCU",
+    "phone": "(817) 207-5922"
+  }
+]
